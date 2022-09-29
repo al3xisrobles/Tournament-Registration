@@ -6,7 +6,7 @@
 
   <img src="src/client/src/images/sigmaNu.png" alt="Logo" width="80" height="80">
 
-  <h1 align="center">Sigma Nu's Tournament Tracker</h1>
+  <h1 align="center">Sigma Nu's Tournament Registration</h1>
 
   <p align="center">
     For all your tournament needs
@@ -16,7 +16,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This website was created by Alexis Robles and Eli Gottlieb, two first-years at Northwestern University. It was intended to keep track of live standings during a philanthropic volleyball tournament.
+This website was created by Alexis Robles and Eli Gottlieb when they were first-years at Northwestern University. It was intended to allow participants of a philanthropy volleyball tournament to register with a creative UI enabling viewing of current teams and players.
 
 The docs' file management:
 * src contains the fullstack development project
